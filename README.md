@@ -23,6 +23,7 @@ Keyboard Action   |   What it does
 &#8963;G          | Select next occurrence
 &#8679;F6         | Rename (also selects all occurrences)
 &#8984;L          | Go to line
+&#8984;B          | Go to declaration
 &#8984;.          | Collapse, Expand code block
 &#8984;&#8997;O   | Go to function or class
 &#8984;&#8679;O   | Go to file
